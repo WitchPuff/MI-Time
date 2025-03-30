@@ -1,0 +1,3714 @@
+{
+  "0": [
+    {
+      "token_len": 1,
+      "year_A": 1000,
+      "year_B": 2000,
+      "tokens_B": [
+        " 2000"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1024,
+      "year_B": 2024,
+      "tokens_B": [
+        " 2024"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1050,
+      "year_B": 2050,
+      "tokens_B": [
+        " 2050"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1100,
+      "year_B": 2100,
+      "tokens_B": [
+        " 2100"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2000,
+      "year_B": 1000,
+      "tokens_B": [
+        " 1000"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2024,
+      "year_B": 1024,
+      "tokens_B": [
+        " 1024"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2050,
+      "year_B": 1050,
+      "tokens_B": [
+        " 1050"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2100,
+      "year_B": 1100,
+      "tokens_B": [
+        " 1100"
+      ]
+    }
+  ],
+  "1": [
+    {
+      "token_len": 1,
+      "year_A": 1000,
+      "year_B": 1100,
+      "tokens_B": [
+        " 1100"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1000,
+      "year_B": 1200,
+      "tokens_B": [
+        " 1200"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1000,
+      "year_B": 1300,
+      "tokens_B": [
+        " 1300"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1000,
+      "year_B": 1400,
+      "tokens_B": [
+        " 1400"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1000,
+      "year_B": 1500,
+      "tokens_B": [
+        " 1500"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1000,
+      "year_B": 1600,
+      "tokens_B": [
+        " 1600"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1000,
+      "year_B": 1700,
+      "tokens_B": [
+        " 1700"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1000,
+      "year_B": 1800,
+      "tokens_B": [
+        " 1800"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1000,
+      "year_B": 1900,
+      "tokens_B": [
+        " 1900"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1024,
+      "year_B": 1924,
+      "tokens_B": [
+        " 1924"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1050,
+      "year_B": 1850,
+      "tokens_B": [
+        " 1850"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1050,
+      "year_B": 1950,
+      "tokens_B": [
+        " 1950"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1070,
+      "year_B": 1870,
+      "tokens_B": [
+        " 1870"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1070,
+      "year_B": 1970,
+      "tokens_B": [
+        " 1970"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1080,
+      "year_B": 1280,
+      "tokens_B": [
+        " 1280"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1080,
+      "year_B": 1880,
+      "tokens_B": [
+        " 1880"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1080,
+      "year_B": 1980,
+      "tokens_B": [
+        " 1980"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1100,
+      "year_B": 1000,
+      "tokens_B": [
+        " 1000"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1100,
+      "year_B": 1200,
+      "tokens_B": [
+        " 1200"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1100,
+      "year_B": 1300,
+      "tokens_B": [
+        " 1300"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1100,
+      "year_B": 1400,
+      "tokens_B": [
+        " 1400"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1100,
+      "year_B": 1500,
+      "tokens_B": [
+        " 1500"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1100,
+      "year_B": 1600,
+      "tokens_B": [
+        " 1600"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1100,
+      "year_B": 1700,
+      "tokens_B": [
+        " 1700"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1100,
+      "year_B": 1800,
+      "tokens_B": [
+        " 1800"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1100,
+      "year_B": 1900,
+      "tokens_B": [
+        " 1900"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1200,
+      "year_B": 1000,
+      "tokens_B": [
+        " 1000"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1200,
+      "year_B": 1100,
+      "tokens_B": [
+        " 1100"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1200,
+      "year_B": 1300,
+      "tokens_B": [
+        " 1300"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1200,
+      "year_B": 1400,
+      "tokens_B": [
+        " 1400"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1200,
+      "year_B": 1500,
+      "tokens_B": [
+        " 1500"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1200,
+      "year_B": 1600,
+      "tokens_B": [
+        " 1600"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1200,
+      "year_B": 1700,
+      "tokens_B": [
+        " 1700"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1200,
+      "year_B": 1800,
+      "tokens_B": [
+        " 1800"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1200,
+      "year_B": 1900,
+      "tokens_B": [
+        " 1900"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1280,
+      "year_B": 1080,
+      "tokens_B": [
+        " 1080"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1280,
+      "year_B": 1880,
+      "tokens_B": [
+        " 1880"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1280,
+      "year_B": 1980,
+      "tokens_B": [
+        " 1980"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1300,
+      "year_B": 1000,
+      "tokens_B": [
+        " 1000"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1300,
+      "year_B": 1100,
+      "tokens_B": [
+        " 1100"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1300,
+      "year_B": 1200,
+      "tokens_B": [
+        " 1200"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1300,
+      "year_B": 1400,
+      "tokens_B": [
+        " 1400"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1300,
+      "year_B": 1500,
+      "tokens_B": [
+        " 1500"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1300,
+      "year_B": 1600,
+      "tokens_B": [
+        " 1600"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1300,
+      "year_B": 1700,
+      "tokens_B": [
+        " 1700"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1300,
+      "year_B": 1800,
+      "tokens_B": [
+        " 1800"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1300,
+      "year_B": 1900,
+      "tokens_B": [
+        " 1900"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1400,
+      "year_B": 1000,
+      "tokens_B": [
+        " 1000"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1400,
+      "year_B": 1100,
+      "tokens_B": [
+        " 1100"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1400,
+      "year_B": 1200,
+      "tokens_B": [
+        " 1200"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1400,
+      "year_B": 1300,
+      "tokens_B": [
+        " 1300"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1400,
+      "year_B": 1500,
+      "tokens_B": [
+        " 1500"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1400,
+      "year_B": 1600,
+      "tokens_B": [
+        " 1600"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1400,
+      "year_B": 1700,
+      "tokens_B": [
+        " 1700"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1400,
+      "year_B": 1800,
+      "tokens_B": [
+        " 1800"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1400,
+      "year_B": 1900,
+      "tokens_B": [
+        " 1900"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1440,
+      "year_B": 1840,
+      "tokens_B": [
+        " 1840"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1440,
+      "year_B": 1940,
+      "tokens_B": [
+        " 1940"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1500,
+      "year_B": 1000,
+      "tokens_B": [
+        " 1000"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1500,
+      "year_B": 1100,
+      "tokens_B": [
+        " 1100"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1500,
+      "year_B": 1200,
+      "tokens_B": [
+        " 1200"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1500,
+      "year_B": 1300,
+      "tokens_B": [
+        " 1300"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1500,
+      "year_B": 1400,
+      "tokens_B": [
+        " 1400"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1500,
+      "year_B": 1600,
+      "tokens_B": [
+        " 1600"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1500,
+      "year_B": 1700,
+      "tokens_B": [
+        " 1700"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1500,
+      "year_B": 1800,
+      "tokens_B": [
+        " 1800"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1500,
+      "year_B": 1900,
+      "tokens_B": [
+        " 1900"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1600,
+      "year_B": 1000,
+      "tokens_B": [
+        " 1000"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1600,
+      "year_B": 1100,
+      "tokens_B": [
+        " 1100"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1600,
+      "year_B": 1200,
+      "tokens_B": [
+        " 1200"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1600,
+      "year_B": 1300,
+      "tokens_B": [
+        " 1300"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1600,
+      "year_B": 1400,
+      "tokens_B": [
+        " 1400"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1600,
+      "year_B": 1500,
+      "tokens_B": [
+        " 1500"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1600,
+      "year_B": 1700,
+      "tokens_B": [
+        " 1700"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1600,
+      "year_B": 1800,
+      "tokens_B": [
+        " 1800"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1600,
+      "year_B": 1900,
+      "tokens_B": [
+        " 1900"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1700,
+      "year_B": 1000,
+      "tokens_B": [
+        " 1000"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1700,
+      "year_B": 1100,
+      "tokens_B": [
+        " 1100"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1700,
+      "year_B": 1200,
+      "tokens_B": [
+        " 1200"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1700,
+      "year_B": 1300,
+      "tokens_B": [
+        " 1300"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1700,
+      "year_B": 1400,
+      "tokens_B": [
+        " 1400"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1700,
+      "year_B": 1500,
+      "tokens_B": [
+        " 1500"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1700,
+      "year_B": 1600,
+      "tokens_B": [
+        " 1600"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1700,
+      "year_B": 1800,
+      "tokens_B": [
+        " 1800"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1700,
+      "year_B": 1900,
+      "tokens_B": [
+        " 1900"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1800,
+      "year_B": 1000,
+      "tokens_B": [
+        " 1000"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1800,
+      "year_B": 1100,
+      "tokens_B": [
+        " 1100"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1800,
+      "year_B": 1200,
+      "tokens_B": [
+        " 1200"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1800,
+      "year_B": 1300,
+      "tokens_B": [
+        " 1300"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1800,
+      "year_B": 1400,
+      "tokens_B": [
+        " 1400"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1800,
+      "year_B": 1500,
+      "tokens_B": [
+        " 1500"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1800,
+      "year_B": 1600,
+      "tokens_B": [
+        " 1600"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1800,
+      "year_B": 1700,
+      "tokens_B": [
+        " 1700"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1800,
+      "year_B": 1900,
+      "tokens_B": [
+        " 1900"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1830,
+      "year_B": 1930,
+      "tokens_B": [
+        " 1930"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1840,
+      "year_B": 1440,
+      "tokens_B": [
+        " 1440"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1840,
+      "year_B": 1940,
+      "tokens_B": [
+        " 1940"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1850,
+      "year_B": 1050,
+      "tokens_B": [
+        " 1050"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1850,
+      "year_B": 1950,
+      "tokens_B": [
+        " 1950"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1860,
+      "year_B": 1960,
+      "tokens_B": [
+        " 1960"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1861,
+      "year_B": 1961,
+      "tokens_B": [
+        " 1961"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2000,
+      "year_B": 2100,
+      "tokens_B": [
+        " 2100"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2100,
+      "year_B": 2000,
+      "tokens_B": [
+        " 2000"
+      ]
+    }
+  ],
+  "2": [
+    {
+      "token_len": 1,
+      "year_A": 1951,
+      "year_B": 1961,
+      "tokens_B": [
+        " 1961"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1951,
+      "year_B": 1971,
+      "tokens_B": [
+        " 1971"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1951,
+      "year_B": 1981,
+      "tokens_B": [
+        " 1981"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1951,
+      "year_B": 1991,
+      "tokens_B": [
+        " 1991"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1952,
+      "year_B": 1962,
+      "tokens_B": [
+        " 1962"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1952,
+      "year_B": 1972,
+      "tokens_B": [
+        " 1972"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1952,
+      "year_B": 1982,
+      "tokens_B": [
+        " 1982"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1952,
+      "year_B": 1992,
+      "tokens_B": [
+        " 1992"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1953,
+      "year_B": 1963,
+      "tokens_B": [
+        " 1963"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1953,
+      "year_B": 1973,
+      "tokens_B": [
+        " 1973"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1953,
+      "year_B": 1983,
+      "tokens_B": [
+        " 1983"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1953,
+      "year_B": 1993,
+      "tokens_B": [
+        " 1993"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1954,
+      "year_B": 1964,
+      "tokens_B": [
+        " 1964"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1954,
+      "year_B": 1974,
+      "tokens_B": [
+        " 1974"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1954,
+      "year_B": 1984,
+      "tokens_B": [
+        " 1984"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1954,
+      "year_B": 1994,
+      "tokens_B": [
+        " 1994"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1955,
+      "year_B": 1965,
+      "tokens_B": [
+        " 1965"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1955,
+      "year_B": 1975,
+      "tokens_B": [
+        " 1975"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1955,
+      "year_B": 1985,
+      "tokens_B": [
+        " 1985"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1955,
+      "year_B": 1995,
+      "tokens_B": [
+        " 1995"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1956,
+      "year_B": 1966,
+      "tokens_B": [
+        " 1966"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1956,
+      "year_B": 1976,
+      "tokens_B": [
+        " 1976"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1956,
+      "year_B": 1986,
+      "tokens_B": [
+        " 1986"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1956,
+      "year_B": 1996,
+      "tokens_B": [
+        " 1996"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1957,
+      "year_B": 1967,
+      "tokens_B": [
+        " 1967"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1957,
+      "year_B": 1977,
+      "tokens_B": [
+        " 1977"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1957,
+      "year_B": 1987,
+      "tokens_B": [
+        " 1987"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1957,
+      "year_B": 1997,
+      "tokens_B": [
+        " 1997"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1958,
+      "year_B": 1968,
+      "tokens_B": [
+        " 1968"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1958,
+      "year_B": 1978,
+      "tokens_B": [
+        " 1978"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1958,
+      "year_B": 1988,
+      "tokens_B": [
+        " 1988"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1958,
+      "year_B": 1998,
+      "tokens_B": [
+        " 1998"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1959,
+      "year_B": 1969,
+      "tokens_B": [
+        " 1969"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1959,
+      "year_B": 1979,
+      "tokens_B": [
+        " 1979"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1959,
+      "year_B": 1989,
+      "tokens_B": [
+        " 1989"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1959,
+      "year_B": 1999,
+      "tokens_B": [
+        " 1999"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1960,
+      "year_B": 1970,
+      "tokens_B": [
+        " 1970"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1960,
+      "year_B": 1980,
+      "tokens_B": [
+        " 1980"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1960,
+      "year_B": 1990,
+      "tokens_B": [
+        " 1990"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1961,
+      "year_B": 1951,
+      "tokens_B": [
+        " 1951"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1961,
+      "year_B": 1971,
+      "tokens_B": [
+        " 1971"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1961,
+      "year_B": 1981,
+      "tokens_B": [
+        " 1981"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1961,
+      "year_B": 1991,
+      "tokens_B": [
+        " 1991"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1962,
+      "year_B": 1952,
+      "tokens_B": [
+        " 1952"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1962,
+      "year_B": 1972,
+      "tokens_B": [
+        " 1972"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1962,
+      "year_B": 1982,
+      "tokens_B": [
+        " 1982"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1962,
+      "year_B": 1992,
+      "tokens_B": [
+        " 1992"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1963,
+      "year_B": 1953,
+      "tokens_B": [
+        " 1953"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1963,
+      "year_B": 1973,
+      "tokens_B": [
+        " 1973"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1963,
+      "year_B": 1983,
+      "tokens_B": [
+        " 1983"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1963,
+      "year_B": 1993,
+      "tokens_B": [
+        " 1993"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1964,
+      "year_B": 1954,
+      "tokens_B": [
+        " 1954"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1964,
+      "year_B": 1974,
+      "tokens_B": [
+        " 1974"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1964,
+      "year_B": 1984,
+      "tokens_B": [
+        " 1984"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1964,
+      "year_B": 1994,
+      "tokens_B": [
+        " 1994"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1965,
+      "year_B": 1955,
+      "tokens_B": [
+        " 1955"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1965,
+      "year_B": 1975,
+      "tokens_B": [
+        " 1975"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1965,
+      "year_B": 1985,
+      "tokens_B": [
+        " 1985"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1965,
+      "year_B": 1995,
+      "tokens_B": [
+        " 1995"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1966,
+      "year_B": 1956,
+      "tokens_B": [
+        " 1956"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1966,
+      "year_B": 1976,
+      "tokens_B": [
+        " 1976"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1966,
+      "year_B": 1986,
+      "tokens_B": [
+        " 1986"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1966,
+      "year_B": 1996,
+      "tokens_B": [
+        " 1996"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1967,
+      "year_B": 1957,
+      "tokens_B": [
+        " 1957"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1967,
+      "year_B": 1977,
+      "tokens_B": [
+        " 1977"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1967,
+      "year_B": 1987,
+      "tokens_B": [
+        " 1987"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1967,
+      "year_B": 1997,
+      "tokens_B": [
+        " 1997"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1968,
+      "year_B": 1958,
+      "tokens_B": [
+        " 1958"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1968,
+      "year_B": 1978,
+      "tokens_B": [
+        " 1978"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1968,
+      "year_B": 1988,
+      "tokens_B": [
+        " 1988"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1968,
+      "year_B": 1998,
+      "tokens_B": [
+        " 1998"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1969,
+      "year_B": 1959,
+      "tokens_B": [
+        " 1959"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1969,
+      "year_B": 1979,
+      "tokens_B": [
+        " 1979"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1969,
+      "year_B": 1989,
+      "tokens_B": [
+        " 1989"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1969,
+      "year_B": 1999,
+      "tokens_B": [
+        " 1999"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1970,
+      "year_B": 1960,
+      "tokens_B": [
+        " 1960"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1970,
+      "year_B": 1980,
+      "tokens_B": [
+        " 1980"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1970,
+      "year_B": 1990,
+      "tokens_B": [
+        " 1990"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1971,
+      "year_B": 1951,
+      "tokens_B": [
+        " 1951"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1971,
+      "year_B": 1961,
+      "tokens_B": [
+        " 1961"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1971,
+      "year_B": 1981,
+      "tokens_B": [
+        " 1981"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1971,
+      "year_B": 1991,
+      "tokens_B": [
+        " 1991"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1972,
+      "year_B": 1952,
+      "tokens_B": [
+        " 1952"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1972,
+      "year_B": 1962,
+      "tokens_B": [
+        " 1962"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1972,
+      "year_B": 1982,
+      "tokens_B": [
+        " 1982"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1972,
+      "year_B": 1992,
+      "tokens_B": [
+        " 1992"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1973,
+      "year_B": 1953,
+      "tokens_B": [
+        " 1953"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1973,
+      "year_B": 1963,
+      "tokens_B": [
+        " 1963"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1973,
+      "year_B": 1983,
+      "tokens_B": [
+        " 1983"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1973,
+      "year_B": 1993,
+      "tokens_B": [
+        " 1993"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1974,
+      "year_B": 1954,
+      "tokens_B": [
+        " 1954"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1974,
+      "year_B": 1964,
+      "tokens_B": [
+        " 1964"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1974,
+      "year_B": 1984,
+      "tokens_B": [
+        " 1984"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1974,
+      "year_B": 1994,
+      "tokens_B": [
+        " 1994"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1975,
+      "year_B": 1955,
+      "tokens_B": [
+        " 1955"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1975,
+      "year_B": 1965,
+      "tokens_B": [
+        " 1965"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1975,
+      "year_B": 1985,
+      "tokens_B": [
+        " 1985"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1975,
+      "year_B": 1995,
+      "tokens_B": [
+        " 1995"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1976,
+      "year_B": 1956,
+      "tokens_B": [
+        " 1956"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1976,
+      "year_B": 1966,
+      "tokens_B": [
+        " 1966"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1976,
+      "year_B": 1986,
+      "tokens_B": [
+        " 1986"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2000,
+      "year_B": 2010,
+      "tokens_B": [
+        " 2010"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2000,
+      "year_B": 2020,
+      "tokens_B": [
+        " 2020"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2000,
+      "year_B": 2030,
+      "tokens_B": [
+        " 2030"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2001,
+      "year_B": 2011,
+      "tokens_B": [
+        " 2011"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2001,
+      "year_B": 2021,
+      "tokens_B": [
+        " 2021"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2002,
+      "year_B": 2012,
+      "tokens_B": [
+        " 2012"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2002,
+      "year_B": 2022,
+      "tokens_B": [
+        " 2022"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2003,
+      "year_B": 2013,
+      "tokens_B": [
+        " 2013"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2004,
+      "year_B": 2014,
+      "tokens_B": [
+        " 2014"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2004,
+      "year_B": 2024,
+      "tokens_B": [
+        " 2024"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2005,
+      "year_B": 2015,
+      "tokens_B": [
+        " 2015"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2005,
+      "year_B": 2025,
+      "tokens_B": [
+        " 2025"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2006,
+      "year_B": 2016,
+      "tokens_B": [
+        " 2016"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2007,
+      "year_B": 2017,
+      "tokens_B": [
+        " 2017"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2008,
+      "year_B": 2018,
+      "tokens_B": [
+        " 2018"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2008,
+      "year_B": 2048,
+      "tokens_B": [
+        " 2048"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2009,
+      "year_B": 2019,
+      "tokens_B": [
+        " 2019"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2010,
+      "year_B": 2000,
+      "tokens_B": [
+        " 2000"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2010,
+      "year_B": 2020,
+      "tokens_B": [
+        " 2020"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2010,
+      "year_B": 2030,
+      "tokens_B": [
+        " 2030"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2011,
+      "year_B": 2001,
+      "tokens_B": [
+        " 2001"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2011,
+      "year_B": 2021,
+      "tokens_B": [
+        " 2021"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2012,
+      "year_B": 2002,
+      "tokens_B": [
+        " 2002"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2012,
+      "year_B": 2022,
+      "tokens_B": [
+        " 2022"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2013,
+      "year_B": 2003,
+      "tokens_B": [
+        " 2003"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2014,
+      "year_B": 2004,
+      "tokens_B": [
+        " 2004"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2014,
+      "year_B": 2024,
+      "tokens_B": [
+        " 2024"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2015,
+      "year_B": 2005,
+      "tokens_B": [
+        " 2005"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2015,
+      "year_B": 2025,
+      "tokens_B": [
+        " 2025"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2016,
+      "year_B": 2006,
+      "tokens_B": [
+        " 2006"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2017,
+      "year_B": 2007,
+      "tokens_B": [
+        " 2007"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2018,
+      "year_B": 2008,
+      "tokens_B": [
+        " 2008"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2018,
+      "year_B": 2048,
+      "tokens_B": [
+        " 2048"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2019,
+      "year_B": 2009,
+      "tokens_B": [
+        " 2009"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2020,
+      "year_B": 2000,
+      "tokens_B": [
+        " 2000"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2020,
+      "year_B": 2010,
+      "tokens_B": [
+        " 2010"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2020,
+      "year_B": 2030,
+      "tokens_B": [
+        " 2030"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2021,
+      "year_B": 2001,
+      "tokens_B": [
+        " 2001"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2021,
+      "year_B": 2011,
+      "tokens_B": [
+        " 2011"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2022,
+      "year_B": 2002,
+      "tokens_B": [
+        " 2002"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2022,
+      "year_B": 2012,
+      "tokens_B": [
+        " 2012"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2024,
+      "year_B": 2004,
+      "tokens_B": [
+        " 2004"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2024,
+      "year_B": 2014,
+      "tokens_B": [
+        " 2014"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2025,
+      "year_B": 2005,
+      "tokens_B": [
+        " 2005"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2025,
+      "year_B": 2015,
+      "tokens_B": [
+        " 2015"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2030,
+      "year_B": 2000,
+      "tokens_B": [
+        " 2000"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2030,
+      "year_B": 2010,
+      "tokens_B": [
+        " 2010"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2030,
+      "year_B": 2020,
+      "tokens_B": [
+        " 2020"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2048,
+      "year_B": 2008,
+      "tokens_B": [
+        " 2008"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2048,
+      "year_B": 2018,
+      "tokens_B": [
+        " 2018"
+      ]
+    }
+  ],
+  "3": [
+    {
+      "token_len": 1,
+      "year_A": 1951,
+      "year_B": 1952,
+      "tokens_B": [
+        " 1952"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1951,
+      "year_B": 1953,
+      "tokens_B": [
+        " 1953"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1951,
+      "year_B": 1954,
+      "tokens_B": [
+        " 1954"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1951,
+      "year_B": 1955,
+      "tokens_B": [
+        " 1955"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1951,
+      "year_B": 1956,
+      "tokens_B": [
+        " 1956"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1951,
+      "year_B": 1957,
+      "tokens_B": [
+        " 1957"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1951,
+      "year_B": 1958,
+      "tokens_B": [
+        " 1958"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1951,
+      "year_B": 1959,
+      "tokens_B": [
+        " 1959"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1952,
+      "year_B": 1951,
+      "tokens_B": [
+        " 1951"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1952,
+      "year_B": 1953,
+      "tokens_B": [
+        " 1953"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1952,
+      "year_B": 1954,
+      "tokens_B": [
+        " 1954"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1952,
+      "year_B": 1955,
+      "tokens_B": [
+        " 1955"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1952,
+      "year_B": 1956,
+      "tokens_B": [
+        " 1956"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1952,
+      "year_B": 1957,
+      "tokens_B": [
+        " 1957"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1952,
+      "year_B": 1958,
+      "tokens_B": [
+        " 1958"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1952,
+      "year_B": 1959,
+      "tokens_B": [
+        " 1959"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1953,
+      "year_B": 1951,
+      "tokens_B": [
+        " 1951"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1953,
+      "year_B": 1952,
+      "tokens_B": [
+        " 1952"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1953,
+      "year_B": 1954,
+      "tokens_B": [
+        " 1954"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1953,
+      "year_B": 1955,
+      "tokens_B": [
+        " 1955"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1953,
+      "year_B": 1956,
+      "tokens_B": [
+        " 1956"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1953,
+      "year_B": 1957,
+      "tokens_B": [
+        " 1957"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1953,
+      "year_B": 1958,
+      "tokens_B": [
+        " 1958"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1953,
+      "year_B": 1959,
+      "tokens_B": [
+        " 1959"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1954,
+      "year_B": 1951,
+      "tokens_B": [
+        " 1951"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1954,
+      "year_B": 1952,
+      "tokens_B": [
+        " 1952"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1954,
+      "year_B": 1953,
+      "tokens_B": [
+        " 1953"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1954,
+      "year_B": 1955,
+      "tokens_B": [
+        " 1955"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1954,
+      "year_B": 1956,
+      "tokens_B": [
+        " 1956"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1954,
+      "year_B": 1957,
+      "tokens_B": [
+        " 1957"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1954,
+      "year_B": 1958,
+      "tokens_B": [
+        " 1958"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1954,
+      "year_B": 1959,
+      "tokens_B": [
+        " 1959"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1955,
+      "year_B": 1951,
+      "tokens_B": [
+        " 1951"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1955,
+      "year_B": 1952,
+      "tokens_B": [
+        " 1952"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1955,
+      "year_B": 1953,
+      "tokens_B": [
+        " 1953"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1955,
+      "year_B": 1954,
+      "tokens_B": [
+        " 1954"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1955,
+      "year_B": 1956,
+      "tokens_B": [
+        " 1956"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1955,
+      "year_B": 1957,
+      "tokens_B": [
+        " 1957"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1955,
+      "year_B": 1958,
+      "tokens_B": [
+        " 1958"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1955,
+      "year_B": 1959,
+      "tokens_B": [
+        " 1959"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1956,
+      "year_B": 1951,
+      "tokens_B": [
+        " 1951"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1956,
+      "year_B": 1952,
+      "tokens_B": [
+        " 1952"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1956,
+      "year_B": 1953,
+      "tokens_B": [
+        " 1953"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1956,
+      "year_B": 1954,
+      "tokens_B": [
+        " 1954"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1956,
+      "year_B": 1955,
+      "tokens_B": [
+        " 1955"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1956,
+      "year_B": 1957,
+      "tokens_B": [
+        " 1957"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1956,
+      "year_B": 1958,
+      "tokens_B": [
+        " 1958"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1956,
+      "year_B": 1959,
+      "tokens_B": [
+        " 1959"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1957,
+      "year_B": 1951,
+      "tokens_B": [
+        " 1951"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1957,
+      "year_B": 1952,
+      "tokens_B": [
+        " 1952"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1957,
+      "year_B": 1953,
+      "tokens_B": [
+        " 1953"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1957,
+      "year_B": 1954,
+      "tokens_B": [
+        " 1954"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1957,
+      "year_B": 1955,
+      "tokens_B": [
+        " 1955"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1957,
+      "year_B": 1956,
+      "tokens_B": [
+        " 1956"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1957,
+      "year_B": 1958,
+      "tokens_B": [
+        " 1958"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1957,
+      "year_B": 1959,
+      "tokens_B": [
+        " 1959"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1958,
+      "year_B": 1951,
+      "tokens_B": [
+        " 1951"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1958,
+      "year_B": 1952,
+      "tokens_B": [
+        " 1952"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1958,
+      "year_B": 1953,
+      "tokens_B": [
+        " 1953"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1958,
+      "year_B": 1954,
+      "tokens_B": [
+        " 1954"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1958,
+      "year_B": 1955,
+      "tokens_B": [
+        " 1955"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1958,
+      "year_B": 1956,
+      "tokens_B": [
+        " 1956"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1958,
+      "year_B": 1957,
+      "tokens_B": [
+        " 1957"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1958,
+      "year_B": 1959,
+      "tokens_B": [
+        " 1959"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1959,
+      "year_B": 1951,
+      "tokens_B": [
+        " 1951"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1959,
+      "year_B": 1952,
+      "tokens_B": [
+        " 1952"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1959,
+      "year_B": 1953,
+      "tokens_B": [
+        " 1953"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1959,
+      "year_B": 1954,
+      "tokens_B": [
+        " 1954"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1959,
+      "year_B": 1955,
+      "tokens_B": [
+        " 1955"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1959,
+      "year_B": 1956,
+      "tokens_B": [
+        " 1956"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1959,
+      "year_B": 1957,
+      "tokens_B": [
+        " 1957"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1959,
+      "year_B": 1958,
+      "tokens_B": [
+        " 1958"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1960,
+      "year_B": 1961,
+      "tokens_B": [
+        " 1961"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1960,
+      "year_B": 1962,
+      "tokens_B": [
+        " 1962"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1960,
+      "year_B": 1963,
+      "tokens_B": [
+        " 1963"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1960,
+      "year_B": 1964,
+      "tokens_B": [
+        " 1964"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1960,
+      "year_B": 1965,
+      "tokens_B": [
+        " 1965"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1960,
+      "year_B": 1966,
+      "tokens_B": [
+        " 1966"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1960,
+      "year_B": 1967,
+      "tokens_B": [
+        " 1967"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1960,
+      "year_B": 1968,
+      "tokens_B": [
+        " 1968"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1960,
+      "year_B": 1969,
+      "tokens_B": [
+        " 1969"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1961,
+      "year_B": 1960,
+      "tokens_B": [
+        " 1960"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1961,
+      "year_B": 1962,
+      "tokens_B": [
+        " 1962"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1961,
+      "year_B": 1963,
+      "tokens_B": [
+        " 1963"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1961,
+      "year_B": 1964,
+      "tokens_B": [
+        " 1964"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1961,
+      "year_B": 1965,
+      "tokens_B": [
+        " 1965"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1961,
+      "year_B": 1966,
+      "tokens_B": [
+        " 1966"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1961,
+      "year_B": 1967,
+      "tokens_B": [
+        " 1967"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1961,
+      "year_B": 1968,
+      "tokens_B": [
+        " 1968"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1961,
+      "year_B": 1969,
+      "tokens_B": [
+        " 1969"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1962,
+      "year_B": 1960,
+      "tokens_B": [
+        " 1960"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1962,
+      "year_B": 1961,
+      "tokens_B": [
+        " 1961"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1962,
+      "year_B": 1963,
+      "tokens_B": [
+        " 1963"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1962,
+      "year_B": 1964,
+      "tokens_B": [
+        " 1964"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1962,
+      "year_B": 1965,
+      "tokens_B": [
+        " 1965"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1962,
+      "year_B": 1966,
+      "tokens_B": [
+        " 1966"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1962,
+      "year_B": 1967,
+      "tokens_B": [
+        " 1967"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1962,
+      "year_B": 1968,
+      "tokens_B": [
+        " 1968"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1962,
+      "year_B": 1969,
+      "tokens_B": [
+        " 1969"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1963,
+      "year_B": 1960,
+      "tokens_B": [
+        " 1960"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 1963,
+      "year_B": 1961,
+      "tokens_B": [
+        " 1961"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2000,
+      "year_B": 2001,
+      "tokens_B": [
+        " 2001"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2000,
+      "year_B": 2002,
+      "tokens_B": [
+        " 2002"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2000,
+      "year_B": 2003,
+      "tokens_B": [
+        " 2003"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2000,
+      "year_B": 2004,
+      "tokens_B": [
+        " 2004"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2000,
+      "year_B": 2005,
+      "tokens_B": [
+        " 2005"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2000,
+      "year_B": 2006,
+      "tokens_B": [
+        " 2006"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2000,
+      "year_B": 2007,
+      "tokens_B": [
+        " 2007"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2000,
+      "year_B": 2008,
+      "tokens_B": [
+        " 2008"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2000,
+      "year_B": 2009,
+      "tokens_B": [
+        " 2009"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2001,
+      "year_B": 2000,
+      "tokens_B": [
+        " 2000"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2001,
+      "year_B": 2002,
+      "tokens_B": [
+        " 2002"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2001,
+      "year_B": 2003,
+      "tokens_B": [
+        " 2003"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2001,
+      "year_B": 2004,
+      "tokens_B": [
+        " 2004"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2001,
+      "year_B": 2005,
+      "tokens_B": [
+        " 2005"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2001,
+      "year_B": 2006,
+      "tokens_B": [
+        " 2006"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2001,
+      "year_B": 2007,
+      "tokens_B": [
+        " 2007"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2001,
+      "year_B": 2008,
+      "tokens_B": [
+        " 2008"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2001,
+      "year_B": 2009,
+      "tokens_B": [
+        " 2009"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2002,
+      "year_B": 2000,
+      "tokens_B": [
+        " 2000"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2002,
+      "year_B": 2001,
+      "tokens_B": [
+        " 2001"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2002,
+      "year_B": 2003,
+      "tokens_B": [
+        " 2003"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2002,
+      "year_B": 2004,
+      "tokens_B": [
+        " 2004"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2002,
+      "year_B": 2005,
+      "tokens_B": [
+        " 2005"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2002,
+      "year_B": 2006,
+      "tokens_B": [
+        " 2006"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2002,
+      "year_B": 2007,
+      "tokens_B": [
+        " 2007"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2002,
+      "year_B": 2008,
+      "tokens_B": [
+        " 2008"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2002,
+      "year_B": 2009,
+      "tokens_B": [
+        " 2009"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2003,
+      "year_B": 2000,
+      "tokens_B": [
+        " 2000"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2003,
+      "year_B": 2001,
+      "tokens_B": [
+        " 2001"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2003,
+      "year_B": 2002,
+      "tokens_B": [
+        " 2002"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2003,
+      "year_B": 2004,
+      "tokens_B": [
+        " 2004"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2003,
+      "year_B": 2005,
+      "tokens_B": [
+        " 2005"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2003,
+      "year_B": 2006,
+      "tokens_B": [
+        " 2006"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2003,
+      "year_B": 2007,
+      "tokens_B": [
+        " 2007"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2003,
+      "year_B": 2008,
+      "tokens_B": [
+        " 2008"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2003,
+      "year_B": 2009,
+      "tokens_B": [
+        " 2009"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2004,
+      "year_B": 2000,
+      "tokens_B": [
+        " 2000"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2004,
+      "year_B": 2001,
+      "tokens_B": [
+        " 2001"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2004,
+      "year_B": 2002,
+      "tokens_B": [
+        " 2002"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2004,
+      "year_B": 2003,
+      "tokens_B": [
+        " 2003"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2004,
+      "year_B": 2005,
+      "tokens_B": [
+        " 2005"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2004,
+      "year_B": 2006,
+      "tokens_B": [
+        " 2006"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2004,
+      "year_B": 2007,
+      "tokens_B": [
+        " 2007"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2004,
+      "year_B": 2008,
+      "tokens_B": [
+        " 2008"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2004,
+      "year_B": 2009,
+      "tokens_B": [
+        " 2009"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2005,
+      "year_B": 2000,
+      "tokens_B": [
+        " 2000"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2005,
+      "year_B": 2001,
+      "tokens_B": [
+        " 2001"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2005,
+      "year_B": 2002,
+      "tokens_B": [
+        " 2002"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2005,
+      "year_B": 2003,
+      "tokens_B": [
+        " 2003"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2005,
+      "year_B": 2004,
+      "tokens_B": [
+        " 2004"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2005,
+      "year_B": 2006,
+      "tokens_B": [
+        " 2006"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2005,
+      "year_B": 2007,
+      "tokens_B": [
+        " 2007"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2005,
+      "year_B": 2008,
+      "tokens_B": [
+        " 2008"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2005,
+      "year_B": 2009,
+      "tokens_B": [
+        " 2009"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2006,
+      "year_B": 2000,
+      "tokens_B": [
+        " 2000"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2006,
+      "year_B": 2001,
+      "tokens_B": [
+        " 2001"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2006,
+      "year_B": 2002,
+      "tokens_B": [
+        " 2002"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2006,
+      "year_B": 2003,
+      "tokens_B": [
+        " 2003"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2006,
+      "year_B": 2004,
+      "tokens_B": [
+        " 2004"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2006,
+      "year_B": 2005,
+      "tokens_B": [
+        " 2005"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2006,
+      "year_B": 2007,
+      "tokens_B": [
+        " 2007"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2006,
+      "year_B": 2008,
+      "tokens_B": [
+        " 2008"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2006,
+      "year_B": 2009,
+      "tokens_B": [
+        " 2009"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2007,
+      "year_B": 2000,
+      "tokens_B": [
+        " 2000"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2007,
+      "year_B": 2001,
+      "tokens_B": [
+        " 2001"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2007,
+      "year_B": 2002,
+      "tokens_B": [
+        " 2002"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2007,
+      "year_B": 2003,
+      "tokens_B": [
+        " 2003"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2007,
+      "year_B": 2004,
+      "tokens_B": [
+        " 2004"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2007,
+      "year_B": 2005,
+      "tokens_B": [
+        " 2005"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2007,
+      "year_B": 2006,
+      "tokens_B": [
+        " 2006"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2007,
+      "year_B": 2008,
+      "tokens_B": [
+        " 2008"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2007,
+      "year_B": 2009,
+      "tokens_B": [
+        " 2009"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2008,
+      "year_B": 2000,
+      "tokens_B": [
+        " 2000"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2008,
+      "year_B": 2001,
+      "tokens_B": [
+        " 2001"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2008,
+      "year_B": 2002,
+      "tokens_B": [
+        " 2002"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2008,
+      "year_B": 2003,
+      "tokens_B": [
+        " 2003"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2008,
+      "year_B": 2004,
+      "tokens_B": [
+        " 2004"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2008,
+      "year_B": 2005,
+      "tokens_B": [
+        " 2005"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2008,
+      "year_B": 2006,
+      "tokens_B": [
+        " 2006"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2008,
+      "year_B": 2007,
+      "tokens_B": [
+        " 2007"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2008,
+      "year_B": 2009,
+      "tokens_B": [
+        " 2009"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2009,
+      "year_B": 2000,
+      "tokens_B": [
+        " 2000"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2009,
+      "year_B": 2001,
+      "tokens_B": [
+        " 2001"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2009,
+      "year_B": 2002,
+      "tokens_B": [
+        " 2002"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2009,
+      "year_B": 2003,
+      "tokens_B": [
+        " 2003"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2009,
+      "year_B": 2004,
+      "tokens_B": [
+        " 2004"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2009,
+      "year_B": 2005,
+      "tokens_B": [
+        " 2005"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2009,
+      "year_B": 2006,
+      "tokens_B": [
+        " 2006"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2009,
+      "year_B": 2007,
+      "tokens_B": [
+        " 2007"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2009,
+      "year_B": 2008,
+      "tokens_B": [
+        " 2008"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2010,
+      "year_B": 2011,
+      "tokens_B": [
+        " 2011"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2010,
+      "year_B": 2012,
+      "tokens_B": [
+        " 2012"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2010,
+      "year_B": 2013,
+      "tokens_B": [
+        " 2013"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2010,
+      "year_B": 2014,
+      "tokens_B": [
+        " 2014"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2010,
+      "year_B": 2015,
+      "tokens_B": [
+        " 2015"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2010,
+      "year_B": 2016,
+      "tokens_B": [
+        " 2016"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2010,
+      "year_B": 2017,
+      "tokens_B": [
+        " 2017"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2010,
+      "year_B": 2018,
+      "tokens_B": [
+        " 2018"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2010,
+      "year_B": 2019,
+      "tokens_B": [
+        " 2019"
+      ]
+    },
+    {
+      "token_len": 1,
+      "year_A": 2011,
+      "year_B": 2010,
+      "tokens_B": [
+        " 2010"
+      ]
+    }
+  ]
+}
